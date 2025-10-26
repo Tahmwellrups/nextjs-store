@@ -9,7 +9,9 @@ function AboutPage() {
             Shop like a billionaire
           </h1>
           <p className="mt-8 max-w-xl text-lg leading-8 text-muted-foreground">
-            It's never been this easier. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic vitae vero quo quos fuga rerum ipsam odio voluptatibus ad quae!
+            It&apos;s never been this easier. Lorem ipsum, dolor sit amet
+            consectetur adipisicing elit. Hic vitae vero quo quos fuga rerum
+            ipsam odio voluptatibus ad quae!
           </p>
         </div>
         <AboutHero />
